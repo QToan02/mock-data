@@ -4,14 +4,14 @@
       "name": "Notebook",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "category": "book",
-      "image": "/",
+      "image": "https://img.freepik.com/free-photo/blossom-floral-bouquet-decoration-colorful-beautiful-flowers-background-garden-flowers-plant-pattern-wallpapers-greeting-cards-postcards-design-wedding-invites_90220-1103.jpg",
       "id": 1
     },
     {
       "name": "Tablet",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "category": "tablet",
-      "image": "/",
+      "image": "https://img.freepik.com/free-photo/blossom-floral-bouquet-decoration-colorful-beautiful-flowers-background-garden-flowers-plant-pattern-wallpapers-greeting-cards-postcards-design-wedding-invites_90220-1103.jpg",
       "id": 2
     }
   ]
